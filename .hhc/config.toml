@@ -1,2 +1,8 @@
-self_addr = '127.0.0.1:23'
-nodes_addr = []
+# the port to listen on
+port_listen = 23
+
+# on which the node is reachable from the outside
+self_node_addr = '192.0.2.1:23'
+
+# the addresses of the nodes that are directly connected to this node
+near_node_addrs = []

@@ -283,6 +283,7 @@ name = "huahuacoin"
 version = "0.1.0"
 dependencies = [
  "local_ipaddress",
+ "log",
  "serde",
  "serde_json",
  "sha2",
