@@ -1,2 +1,6 @@
-self_addr = '127.0.0.1:23'
+# the port to listen on
+port_listen = 23
+
+# on which 
+self_addr = '123.123.123.123:23'
 nodes_addr = []
